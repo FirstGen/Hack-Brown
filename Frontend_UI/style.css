@@ -1,0 +1,30 @@
+html {
+	height: 100%;
+	width: 100%;
+}
+body {
+	height:100%; 
+	width:100%;
+	background-color: white;
+}
+
+#splash {
+	float: left;
+	padding: 50px;
+	padding-top: 200px;
+	padding-bottom: 200px;
+	background-image: url("0006.jpg");
+	 background-size: 150%;
+    background-repeat: no-repeat;
+}
+#topbar {
+	background-color: #008000;
+	padding: 20px;
+	position: fixed;
+}
+#login {
+	float: right;
+	position: fixed;
+	background-color: #008000;
+	color: white;
+}
